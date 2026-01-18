@@ -112,4 +112,3 @@ Secure CLI password manager with encryption, logging, and onboarding documentati
 
 ## 📫 Connect
 - **LinkedIn:** https://ca.linkedin.com/in/leonard-afeke  
-- **Email:** *your email here*
