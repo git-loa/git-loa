@@ -91,7 +91,7 @@ Structured investigations, enrichment workflows, and scenario-based documentatio
 
 ### **Bash Password Manager**
 Secure CLI password manager with encryption, logging, and onboarding documentation.  
-➡️ https://github.com/git-loa/bash-password-manager
+➡️ https://github.com/git-loa/bash-password-manager-project 
 
 ---
 
