@@ -87,11 +87,11 @@ I apply analytical rigor, structured investigation methods, and hands-on SOC/TI 
 
 ### **Threat Intelligence Portfolio**
 Structured investigations, enrichment workflows, and scenario-based documentation.  
-➡️ [View the portfolio folder](https://github.com/git-loa/threat-intel-research-portfolio)
+➡️ [https://github.com/git-loa/threat-intel-research-portfolio](https://github.com/git-loa/threat-intel-research-portfolio)
 
 ### **Bash Password Manager**
 Secure CLI password manager with encryption, logging, and onboarding documentation.  
-➡️ https://github.com/git-loa/bash-password-manager-project 
+➡️ [https://github.com/git-loa/bash-password-manager-project](https://github.com/git-loa/bash-password-manager-project) 
 
 ---
 
