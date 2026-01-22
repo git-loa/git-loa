@@ -87,6 +87,7 @@ I apply analytical rigor, structured investigation methods, and hands-on SOC/TI 
 
 ### **SOC-CTI lab** --- ***In progress***
 Building a lab with Elastic Stack, Linux telemetry, CTI enrichment pipelines, detection engineering, and guided threat-hunting workflows for SOC operations and cyber threat intelligence (CTI) learning and research. 
+
 ➡️ [https://github.com/git-loa/afeke-soc-cti](https://github.com/git-loa/afeke-soc-cti)
 
 ### **Threat Intelligence Portfolio**
