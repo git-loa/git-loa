@@ -94,7 +94,7 @@ Structured investigations, enrichment workflows, and scenario-based documentatio
 ➡️ [https://github.com/git-loa/threat-intel-research-portfolio](https://github.com/git-loa/threat-intel-research-portfolio)
 
 ### **Agentic AI for Network Monitoring & Threat Detection**
-Agentic AI framework integrating Suricata, OSQuery, Langflow, and MCP to automate network monitoring, endpoint visibility, and SOC‑style investigative reporting in a multi‑VM lab environment.
+Agentic AI framework integrating Suricata, OSQuery, Langflow, and MCP to automate network monitoring, endpoint visibility, and SOC‑style investigative reporting in a multi‑VM lab environment. 
 ➡️ [https://github.com/git-loa/agentic-ai-soc-framework](https://github.com/git-loa/agentic-ai-soc-framework)
 
 ### **Bash Password Manager**
