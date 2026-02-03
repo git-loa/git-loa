@@ -95,7 +95,6 @@ Structured investigations, enrichment workflows, and scenario-based documentatio
 
 ### **Agentic AI for Network Monitoring & Threat Detection**
 Agentic AI framework integrating Suricata, OSQuery, Langflow, and MCP to automate network monitoring, endpoint visibility, and SOC‑style investigative reporting in a multi‑VM lab environment.
-
 ➡️ [https://github.com/git-loa/agentic-ai-soc-framework](https://github.com/git-loa/agentic-ai-soc-framework)
 
 ### **Bash Password Manager**
