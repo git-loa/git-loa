@@ -90,12 +90,10 @@ Building a lab with Elastic Stack, Linux telemetry, CTI enrichment pipelines, de
 ➡️ [https://github.com/git-loa/afeke-soc-cti-lab](https://github.com/git-loa/afeke-soc-cti-lab)
 
 ### **Threat Intelligence Portfolio**
-Structured investigations, enrichment workflows, and scenario-based documentation.   
-➡️ [https://github.com/git-loa/threat-intel-research-portfolio](https://github.com/git-loa/threat-intel-research-portfolio)
+Structured investigations, enrichment workflows, and scenario-based documentation.   ➡️ [https://github.com/git-loa/threat-intel-research-portfolio](https://github.com/git-loa/threat-intel-research-portfolio)
 
 ### **Agentic AI for Network Monitoring & Threat Detection**
-Agentic AI framework integrating Suricata, OSQuery, Langflow, and MCP to automate network monitoring, endpoint visibility, and SOC‑style investigative reporting in a multi‑VM lab environment. 
-➡️ [https://github.com/git-loa/agentic-ai-soc-framework](https://github.com/git-loa/agentic-ai-soc-framework)
+Agentic AI framework integrating Suricata, OSQuery, Langflow, and MCP to automate network monitoring, endpoint visibility, and SOC‑style investigative reporting in a multi‑VM lab environment.    ➡️ [https://github.com/git-loa/agentic-ai-soc-framework](https://github.com/git-loa/agentic-ai-soc-framework)
 
 ### **Bash Password Manager**
 Secure CLI password manager with encryption, logging, and onboarding documentation.  
