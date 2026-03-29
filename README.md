@@ -28,7 +28,7 @@ I build case studies, enrichment pipelines, and documentation designed for real 
 ## 🔎 Cyber Threat Intelligence Case Studies
 
 ### Mutawa Marine Services Phishing Analysis (Completed)  
-Full CTI investigation into a phishing email impersonating Mutawa Marine Services, including infrastructure analysis, malware triage, IOC extraction, ATT&CK mapping, and a full LaTeX‑based intelligence report. 
+Full CTI investigation into a phishing email impersonating Mutawa Marine Services, including infrastructure analysis, malware triage, IOC extraction, ATT&CK mapping, and a full LaTeX‑based intelligence report.  
 ➡️ https://github.com/git-loa/threat-intel-research-portfolio/tree/main/case-studies/greenholt_phish
 
 ### **Microsoft Login Phishing on Compromised Subdomain (Completed)**
