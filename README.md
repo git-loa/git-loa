@@ -12,16 +12,11 @@ PhD in Mathematics • OSINT & Infrastructure Analysis
 
 ## 🔍 About Me
 
-I’m a Cyber Threat Intelligence (CTI) researcher focused on adversary behavior, phishing infrastructure analysis, cloud abuse (Azure Front Door, CDN misuse), and structured intelligence reporting.
+Cyber Threat Intelligence Analyst focused on phishing investigations, adversary infrastructure analysis, and OSINT‑driven research. I work on independent CTI projects involving domain pivoting, TLS/certificate metadata analysis, IOC enrichment, and clustering malicious infrastructure.
 
-My work emphasizes:
+My work explores attacker behavior, exposed databases, phishing kits, and vulnerability exploitation patterns. I’m also researching how post‑quantum cryptography will shape future adversary tradecraft and intelligence requirements.
 
-- Analytical rigor and reproducible workflows  
-- Clear, structured CTI investigations  
-- Evidence‑driven reporting aligned with industry standards  
-- Practical SOC/CTI lab experimentation (Elastic, Suricata, OSQuery)
-
-I build case studies, enrichment pipelines, and documentation designed for real analysts and defenders.
+This GitHub hosts my CTI workflows, enrichment pipelines, infrastructure‑analysis tools, and long‑form research.
 
 ---
 
