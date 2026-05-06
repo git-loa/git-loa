@@ -96,9 +96,11 @@ Secure CLI password manager with encryption and logging.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=git-loa&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=git-loa&layout=compact&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=git-loa&show_icons=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=git-loa&layout=compact&hide_border=true" height="160"/>
 </p>
+
+
 
 ---
 
