@@ -44,6 +44,18 @@ Analysis of a QR‑based phishing campaign impersonating a blockchain employer o
 
 ---
 
+## 🛰️ KC7 Cybersecurity Investigations
+
+I complete hands‑on cybersecurity investigations through the KC7 platform — a gamified training environment for developing threat‑hunting, log analysis, and investigation skills. These cases include insider‑threat scenarios, ransomware intrusions, credential theft, and multi‑stage attack reconstruction.
+
+**KC7 Investigations Repository:**  
+➡️ https://github.com/git-loa/kc7-investigations
+
+**KC7 Public Profile:**  
+➡️ https://kc7cyber.com/profile/lafeke-kc7
+
+---
+
 ## 🛡️ SOC / CTI Lab Work
 
 ### **SOC–CTI Lab**
