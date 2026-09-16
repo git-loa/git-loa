@@ -1,8 +1,8 @@
 <div align="center">
 
 # **Leonard Okyere Afeke, Ph.D.**  
-**Cyber Threat Intelligence Researcher • Security Analyst**  
-PhD in Mathematics • Applied Analytics & OSINT Infrastructure Tracking
+**Applied Cryptography & Post‑Quantum Security Researcher**  
+TLS Analysis • PQC Migration • Agentic AI Security • Threat Intelligence (Selected)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=git-loa&color=0e75b6&style=flat)
 
@@ -12,97 +12,101 @@ PhD in Mathematics • Applied Analytics & OSINT Infrastructure Tracking
 
 ## 🔍 About Me
 
-I am a Threat Intelligence Analyst and PhD Mathematician focused on security analytics, adversary infrastructure analysis, and OSINT-driven research. I build threat research portfolios that evaluate phishing setups, track malicious infrastructure behaviors, and perform multi-source open-source data correlation.
+I am a Security Researcher and PhD Mathematician working across **applied cryptography, post‑quantum security, TLS analysis, and quantum‑safe migration**. My work focuses on how modern cryptographic systems evolve under quantum pressure, how organizations can prepare for PQC transitions, and how emerging Agentic AI systems intersect with secure protocol design.
 
-By pairing a strong background in mathematical logic with hands-on security datasets, I develop structured workflows centered on log analysis, network telemetry monitoring, and threat attribution.
+I also maintain a background in **Cyber Threat Intelligence**, applying structured analytical methods to adversary infrastructure tracking, log analysis, and long‑term threat modeling — especially where CTI intersects with PQC, HNDL (Harvest‑Now‑Decrypt‑Later), and cryptographic agility.
 
-### 🎯 Primary Areas of Applied Analytics & Threat Research
-- **Adversary Infrastructure Tracking:** Utilizing structured data correlation to map distributed phishing setups. I leverage OSINT workflows to analyze historic PassiveDNS records, TLS/certificate metadata variations, and WHOIS registration loops to identify linked attacker indicators.
-- **Automated Detection Scripting:** Constructing foundational ingestion scripts using Python and multi-agent frameworks. I focus on parsing raw Suricata network alerts and OSQuery host logs to optimize defensive workflows and assist with technical alert triage.
-- **Strategic Threat Analysis & Cryptographic Trends:** Applying logical reasoning models to track emerging threat vectors. I analyze exposed data trends, research software vulnerabilities (such as buffer overflow behaviors), and follow open-source intelligence regarding long-term post-quantum cryptographic (PQC) risks.
-
-This GitHub serves as my central lab space hosting practical CTI workflows, log analysis configurations, and automation experiments.
+This GitHub serves as my research space for **PQC projects, applied cryptography experiments, TLS analysis, Agentic AI security automation, and selected CTI investigations**.
 
 ---
 
-## 🔎 Cyber Threat Intelligence Case Studies
+## 🔐 Post‑Quantum Cryptography & Applied Cryptography Projects
 
-### ⚓ [Mutawa Marine Services Phishing Analysis](https://github.com/git-loa/threat-intel-research-portfolio/tree/main/case-studies/greenholt_phish)
-Full tactical CTI investigation into a suspicious email campaign impersonating commercial maritime operations.
-- **Actions:** Executed email headers and malware triage, isolated malicious delivery infrastructure hooks, and extracted indicators of compromise (IOCs).
-- **Deliverable:** Compiled a complete, formal, LaTeX-based intelligence brief featuring full MITRE ATT&CK technique mapping.
+### **TLS Inventory Scanner & PQC Risk Assessment — Python**  
+🔗 https://github.com/git-loa/cryptographic-inventory-pqc-risk-assessment  
+A Python-based TLS scanning toolkit evaluating certificates, cipher suites, and endpoint metadata against post‑quantum migration timelines. Includes structured reporting, fuzz‑tested reliability, and HNDL‑aligned quantum‑risk scoring.
 
-### ☁️ [Microsoft Login Phishing on Compromised Subdomain](https://github.com/git-loa/threat-intel-research-portfolio/tree/main/case-studies/microsoft-login-phishing-crforum-2026)
-Investigation into an active Microsoft-themed credential-harvesting campaign exploiting vulnerable hosting endpoints.
-- **Actions:** Tracked malicious redirect configurations active across a compromised `.co.uk` subdomain delivered via Azure Front Door paths.
-- **Deliverable:** Dissected the infrastructure delivery paths and documented clear, actionable defensive remediation steps.
+### **Post‑Quantum Merkle Tree Certificate Engine — Rust**  
+🔗 https://github.com/git-loa/mtc-rs  
+A Rust implementation exploring Merkle Tree Certificate verification using domain‑separation principles and second‑preimage‑resistant hashing. Focuses on efficient proof generation and validation across large certificate datasets.
 
-### 🩻 [OpenSSL CMS Buffer Overflow — CVE‑2025‑15467](https://github.com/git-loa/threat-intel-research-portfolio/tree/main/case-studies/openssl-cms-buffer-overflow-CVE-2025-15467)
-Analytical review of a stack-based buffer overflow vulnerability mechanism within foundational encryption software routines.
-- **Actions:** Evaluated vulnerability mechanics inside OpenSSL’s CMS `AuthEnvelopedData` AEAD parsing routines.
-- **Deliverable:** Mapped out the execution logic gap to track software boundary constraints and signature tracking patterns.
+### **Quantum Algorithm Security Analysis — Fields Institute**  
+*(Research item — no GitHub repository)*  
+Analytical study of Shor and Grover algorithms and their implications for RSA, ECC, symmetric primitives, and long‑term PQC migration strategy.
 
-### 🩸 [MongoBleed — Exposed MongoDB Infrastructure](https://github.com/git-loa/threat-intel-research-portfolio/tree/main/case-studies/mongoBleed)
-Exposure assessment focused on tracking unsecured storage footprints, data leakage risks, and active scanner footprints.
-- **Actions:** Investigated publicly exposed database configurations and tracked automated persistent scanning loops.
-- **Deliverable:** Outlined behavioral patterns regarding how automated malicious scripts scan for target data infrastructure.
 
-### 🎫 [interviewca‑icu QR‑Based Phishing Campaign](https://github.com/git-loa/threat-intel-research-portfolio/tree/main/case-studies/interiewca-icu-phishing)
-Analysis of a specialized social engineering pattern leveraging malicious QR codes to mimic recruitment interactions.
-- **Actions:** Deconstructed the QR payload routing paths used to target software candidates on a job platform.
-- **Deliverable:** Modeled the adversary's delivery sequence to support future user-activity detection rules.
+---
+
+## 🔐 PQC Migration, TLS & Crypto‑Agility (Focus Area)
+
+Exploratory work studying:
+
+- TLS certificate metadata patterns  
+- Cipher suite trends and deprecation timelines  
+- PQC migration readiness indicators  
+- Crypto‑agility considerations  
+- HNDL‑aligned threat modeling  
+
+---
+
+## 🧠 Agentic AI Security Automation
+
+### **Agentic AI Security Automation Framework — Python**  
+🔗 https://github.com/git-loa/agentic-ai-soc-framework
+
+---
+
+## 📚 Post‑Quantum CTI Research Series (Medium)
+
+A multi‑part analytical series examining how **Cyber Threat Intelligence evolves in a post‑quantum world**.
+
+🔗 https://medium.com/@leo.afeke/series-introduction-will-cyber-threat-intelligence-still-be-relevant-in-a-post-quantum-world-73e9b7ac4a9c
+
+---
+
+## 🛰️ Selected Threat Intelligence Case Studies
+
+### **Mutawa Marine Services Phishing Analysis**  
+🔗 https://github.com/git-loa/threat-intel-research-portfolio/tree/main/case-studies/greenholt_phish
+
+### **Microsoft Login Phishing on Compromised Subdomain**  
+🔗 https://github.com/git-loa/threat-intel-research-portfolio/tree/main/case-studies/microsoft-login-phishing-crforum-2026
+
+### **OpenSSL CMS Buffer Overflow — CVE‑2025‑15467**  
+🔗 https://github.com/git-loa/threat-intel-research-portfolio/tree/main/case-studies/openssl-cms-buffer-overflow-CVE-2025-15467
 
 ---
 
 ## 🛰️ Log Analysis & Simulation Workloads
 
-### 🎯 [KC7 Adversary Emulation & Hunting Lab](https://github.com/git-loa/kc7-investigations)
-Hands-on dataset investigations reconstructing simulated corporate intrusions through the KC7 training platform.
-- **Focus:** Querying large network and system event logs to isolate credential theft, insider threats, and ransomware delivery paths.
-- **Profiles:** Verified activity logs are tracked publicly on my [KC7 Public Profile](https://kc7cyber.com/profile/lafeke-kc7).
+### **KC7 Adversary Emulation & Hunting Lab**  
+🔗 https://github.com/git-loa/kc7-investigations
 
-### 🛡️ [SOC-CTI Telemetry Stack](https://github.com/git-loa/afeke-soc-cti-lab)
-A functional local testbed deployment validating basic defensive logging and detection rules.
-- **Focus:** Configuring **Elastic Stack (KQL)**, **Suricata**, and **OSQuery** log capture pipelines.
+### **SOC‑CTI Telemetry Stack**  
+🔗 https://github.com/git-loa/afeke-soc-cti-lab
 
 ---
 
-## 🧰 Engineering & Tool Automation
-
-### 🧠 [Agentic AI Security Automation Framework](https://github.com/git-loa/agentic-ai-soc-framework)
-An experimental, Python-based multi-agent architecture built to ingest, interpret, and triage raw network alerts.
-- **Features:** Integrates active Suricata logs and OSQuery outputs via Langflow and Model Context Protocols (MCP) to implement explainable, logic-based alert scoring models.
-
-### 🔑 [Secure Bash Password Utility](https://github.com/git-loa/bash-password-manager-project)
-A lightweight CLI identity script written to run standard shell environment scripting, encryption implementations, and data logging commands.
-
----
-
-## 🛠️ Skills & Tools
+## 🛠️ Skills & Technology
 
 <table align="center">
   <tr>
+    <td align="center" width="100"><img src="https://cdn.simpleicons.org/rust" width="40"/><br/>Rust</td>
     <td align="center" width="100"><img src="https://cdn.simpleicons.org/python" width="40"/><br/>Python</td>
-    <td align="center" width="100"><img src="https://cdn.simpleicons.org/gnubash" width="40"/><br/>Bash Scripting</td>
-    <td align="center" width="100"><img src="https://cdn.simpleicons.org/jupyter" width="40"/><br/>Jupyter Analytics</td>
-    <td align="center" width="100"><img src="https://cdn.simpleicons.org/latex" width="40"/><br/>LaTeX Docs</td>
+    <td align="center" width="100"><img src="https://cdn.simpleicons.org/gnubash" width="40"/><br/>Bash</td>
+    <td align="center" width="100"><img src="https://cdn.simpleicons.org/jupyter" width="40"/><br/>Jupyter</td>
+    <td align="center" width="100"><img src="https://cdn.simpleicons.org/latex" width="40"/><br/>LaTeX</td>
     <td align="center" width="100"><img src="https://cdn.simpleicons.org/markdown" width="40"/><br/>Markdown</td>
   </tr>
   <tr>
-    <td align="center" width="100"><img src="https://cdn.simpleicons.org/elastic" width="40"/><br/>Elastic Stack</td>
     <td align="center" width="100"><img src="https://cdn.simpleicons.org/suricata" width="40"/><br/>Suricata</td>
     <td align="center" width="100"><img src="https://cdn.simpleicons.org/osquery" width="40"/><br/>OSQuery</td>
+    <td align="center" width="100"><img src="https://cdn.simpleicons.org/elastic" width="40"/><br/>Elastic Stack</td>
     <td align="center" width="100"><img src="https://cdn.simpleicons.org/wireshark" width="40"/><br/>Wireshark</td>
-    <td align="center" width="100"><img src="https://cdn.simpleicons.org/nmap" width="40"/><br/>Nmap Edge</td>
-  </tr>
-  <tr>
-    <td align="center" width="100"><strong>VirusTotal API</strong></td>
-    <td align="center" width="100"><strong>Shodan Engine</strong></td>
-    <td align="center" width="100"><strong>urlscan.io</strong></td>
     <td align="center" width="100"><strong>PassiveDNS / WHOIS</strong></td>
-    <td align="center" width="100"><strong>MITRE ATT&CK Matrix</strong></td>
   </tr>
 </table>
+
 
 ---
 
@@ -116,5 +120,5 @@ A lightweight CLI identity script written to run standard shell environment scri
 
 ## 📫 Connect
 
-- **LinkedIn:** [https://ca.linkedin.com/in/leonard-afeke](https://ca.linkedin.com/in/leonard-afeke)
-- **Medium Blog:** [https://medium.com/@leo.afeke](https://medium.com/@leo.afeke)
+- **LinkedIn:** https://ca.linkedin.com/in/leonard-afeke  
+- **Medium:** https://medium.com/@leo.afeke
