@@ -87,23 +87,27 @@ A multi‑part analytical series examining how **Cyber Threat Intelligence evolv
 
 ---
 
-## 🛠️ Skills & Technology
+## 🛠️ Tools & Technologies
 
 <table align="center">
   <tr>
-    <td align="center" width="100"><img src="https://cdn.simpleicons.org/rust" width="40"/><br/>Rust</td>
-    <td align="center" width="100"><img src="https://cdn.simpleicons.org/python" width="40"/><br/>Python</td>
-    <td align="center" width="100"><img src="https://cdn.simpleicons.org/gnubash" width="40"/><br/>Bash</td>
-    <td align="center" width="100"><img src="https://cdn.simpleicons.org/jupyter" width="40"/><br/>Jupyter</td>
-    <td align="center" width="100"><img src="https://cdn.simpleicons.org/latex" width="40"/><br/>LaTeX</td>
-    <td align="center" width="100"><img src="https://cdn.simpleicons.org/markdown" width="40"/><br/>Markdown</td>
+    <td align="center" width="120"><img src="https://cdn.simpleicons.org/rust" width="40"/><br/>Rust</td>
+    <td align="center" width="120"><img src="https://cdn.simpleicons.org/python" width="40"/><br/>Python</td>
+    <td align="center" width="120"><img src="https://cdn.simpleicons.org/gnubash" width="40"/><br/>Bash</td>
+    <td align="center" width="120"><strong>OpenSSL</strong></td>
+    <td align="center" width="120"><strong>Hypothesis</strong></td>
+    <td align="center" width="120"><strong>Jinja2</strong></td>
+    <td align="center" width="120"><strong>Cargo</strong></td>
   </tr>
   <tr>
-    <td align="center" width="100"><img src="https://cdn.simpleicons.org/suricata" width="40"/><br/>Suricata</td>
-    <td align="center" width="100"><img src="https://cdn.simpleicons.org/osquery" width="40"/><br/>OSQuery</td>
-    <td align="center" width="100"><img src="https://cdn.simpleicons.org/elastic" width="40"/><br/>Elastic Stack</td>
-    <td align="center" width="100"><img src="https://cdn.simpleicons.org/wireshark" width="40"/><br/>Wireshark</td>
-    <td align="center" width="100"><strong>PassiveDNS / WHOIS</strong></td>
+    <td align="center" width="120"><img src="https://cdn.simpleicons.org/jupyter" width="40"/><br/>Jupyter</td>
+    <td align="center" width="120"><img src="https://cdn.simpleicons.org/latex" width="40"/><br/>LaTeX</td>
+    <td align="center" width="120"><img src="https://cdn.simpleicons.org/markdown" width="40"/><br/>Markdown</td>
+    <td align="center" width="120"><img src="https://cdn.simpleicons.org/suricata" width="40"/><br/>Suricata</td>
+    <td align="center" width="120"><img src="https://cdn.simpleicons.org/osquery" width="40"/><br/>OSQuery</td>
+    <td align="center" width="120"><img src="https://cdn.simpleicons.org/elastic" width="40"/><br/>Elastic Stack</td>
+    <td align="center" width="120"><img src="https://cdn.simpleicons.org/wireshark" width="40"/><br/>Wireshark</td>
+    <td align="center" width="120"><strong>PassiveDNS / WHOIS</strong></td>
   </tr>
 </table>
 
